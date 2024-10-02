@@ -38,3 +38,5 @@ C:\Users\Tahir\Desktop\Science.Hub\src\ScienceHub.API\obj\Debug\net8.0\refint\Sc
 C:\Users\Tahir\Desktop\Science.Hub\src\ScienceHub.API\obj\Debug\net8.0\ScienceHub.API.pdb
 C:\Users\Tahir\Desktop\Science.Hub\src\ScienceHub.API\obj\Debug\net8.0\ScienceHub.API.genruntimeconfig.cache
 C:\Users\Tahir\Desktop\Science.Hub\src\ScienceHub.API\obj\Debug\net8.0\ref\ScienceHub.API.dll
+C:\Users\Tahir\Desktop\Science.Hub\src\ScienceHub.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tahir\Desktop\Science.Hub\src\ScienceHub.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll

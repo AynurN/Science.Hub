@@ -1,4 +1,5 @@
-﻿using ScienceHub.Core.Entities.Common;
+﻿using Microsoft.EntityFrameworkCore;
+using ScienceHub.Core.Entities.Common;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,6 +10,7 @@ namespace ScienceHub.Core.IRepositories
 {
     public interface IRepository<T> where T : BaseEntity
     {
-        
+        DbSet<T> Table { get; }
     }
 }
+ 

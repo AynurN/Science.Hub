@@ -10,3 +10,4 @@ C:\Users\Tahir\Desktop\Science.Hub\src\ScienceHub.Core\obj\Debug\net8.0\ScienceH
 C:\Users\Tahir\Desktop\Science.Hub\src\ScienceHub.Core\obj\Debug\net8.0\refint\ScienceHub.Core.dll
 C:\Users\Tahir\Desktop\Science.Hub\src\ScienceHub.Core\obj\Debug\net8.0\ScienceHub.Core.pdb
 C:\Users\Tahir\Desktop\Science.Hub\src\ScienceHub.Core\obj\Debug\net8.0\ref\ScienceHub.Core.dll
+C:\Users\Tahir\Desktop\Science.Hub\src\ScienceHub.Core\obj\Debug\net8.0\ScienceHub.Core.csproj.AssemblyReference.cache

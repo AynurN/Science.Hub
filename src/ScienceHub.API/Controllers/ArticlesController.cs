@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using ScienceHub.Core.Abstarctions;
+using ScienceHub.Core.Entities;
 using ScienceHub.Data.Concretes;
 
 namespace ScienceHub.API.Controllers
@@ -17,7 +18,7 @@ namespace ScienceHub.API.Controllers
         [HttpGet]
         public IActionResult Get()
         {
-            var articles = _articleService.GetAll();
+            ICollection<Article> articles = _articleService.GetAll();
             return Ok(articles);
         }
     }
