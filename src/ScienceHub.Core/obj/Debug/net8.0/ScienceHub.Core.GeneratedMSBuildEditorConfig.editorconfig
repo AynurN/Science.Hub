@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ScienceHub.Core
-build_property.ProjectDir = C:\Users\user\Desktop\Science.hub\ScienceHub\src\ScienceHub.Core\
+build_property.ProjectDir = C:\Users\Tahir\Desktop\Science.Hub\src\ScienceHub.Core\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

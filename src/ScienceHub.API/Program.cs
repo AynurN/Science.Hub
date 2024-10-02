@@ -1,4 +1,6 @@
 
+using ScienceHub.Data;
+
 namespace ScienceHub.API
 {
     public class Program
@@ -7,7 +9,7 @@ namespace ScienceHub.API
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            // Add services to the container.
+            builder.Services.AddPersistanceService();
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

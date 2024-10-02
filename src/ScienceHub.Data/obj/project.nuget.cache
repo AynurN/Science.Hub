@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "bHfY5Q35Nj8=",
+  "dgSpecHash": "8bWn0cL8681WI2HoqDGFyTeOJAwrNJ0IIe9Hv9FK4IiSwlSkX+bHnjTBf//WG4jDCNMN47Sofq7RhIciGvq2xA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\Science.hub\\ScienceHub\\src\\ScienceHub.Data\\ScienceHub.Data.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Tahir\\Desktop\\Science.Hub\\src\\ScienceHub.Data\\ScienceHub.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tahir\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

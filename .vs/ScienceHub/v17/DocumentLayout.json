@@ -1,12 +1,190 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Science.hub\\ScienceHub\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Tahir\\Desktop\\Science.Hub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{633754A6-9977-4927-A0CA-FF03C4111222}|src\\ScienceHub.API\\ScienceHub.API.csproj|c:\\users\\tahir\\desktop\\science.hub\\src\\sciencehub.api\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633754A6-9977-4927-A0CA-FF03C4111222}|src\\ScienceHub.API\\ScienceHub.API.csproj|solutionrelative:src\\sciencehub.api\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC99491-5DC1-4B1A-B5DE-3645B31773A9}|src\\ScienceHub.Data\\ScienceHub.Data.csproj|c:\\users\\tahir\\desktop\\science.hub\\src\\sciencehub.data\\concretes\\articleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC99491-5DC1-4B1A-B5DE-3645B31773A9}|src\\ScienceHub.Data\\ScienceHub.Data.csproj|solutionrelative:src\\sciencehub.data\\concretes\\articleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633754A6-9977-4927-A0CA-FF03C4111222}|src\\ScienceHub.API\\ScienceHub.API.csproj|c:\\users\\tahir\\desktop\\science.hub\\src\\sciencehub.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633754A6-9977-4927-A0CA-FF03C4111222}|src\\ScienceHub.API\\ScienceHub.API.csproj|solutionrelative:src\\sciencehub.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC99491-5DC1-4B1A-B5DE-3645B31773A9}|src\\ScienceHub.Data\\ScienceHub.Data.csproj|c:\\users\\tahir\\desktop\\science.hub\\src\\sciencehub.data\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC99491-5DC1-4B1A-B5DE-3645B31773A9}|src\\ScienceHub.Data\\ScienceHub.Data.csproj|solutionrelative:src\\sciencehub.data\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DD2578-BA29-431E-862A-1C2446BD456B}|src\\ScienceHub.Core\\ScienceHub.Core.csproj|c:\\users\\tahir\\desktop\\science.hub\\src\\sciencehub.core\\entities\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DD2578-BA29-431E-862A-1C2446BD456B}|src\\ScienceHub.Core\\ScienceHub.Core.csproj|solutionrelative:src\\sciencehub.core\\entities\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC99491-5DC1-4B1A-B5DE-3645B31773A9}|src\\ScienceHub.Data\\ScienceHub.Data.csproj|c:\\users\\tahir\\desktop\\science.hub\\src\\sciencehub.data\\sciencehub.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ABC99491-5DC1-4B1A-B5DE-3645B31773A9}|src\\ScienceHub.Data\\ScienceHub.Data.csproj|solutionrelative:src\\sciencehub.data\\sciencehub.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DD2578-BA29-431E-862A-1C2446BD456B}|src\\ScienceHub.Core\\ScienceHub.Core.csproj|c:\\users\\tahir\\desktop\\science.hub\\src\\sciencehub.core\\abstarctions\\iarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DD2578-BA29-431E-862A-1C2446BD456B}|src\\ScienceHub.Core\\ScienceHub.Core.csproj|solutionrelative:src\\sciencehub.core\\abstarctions\\iarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DD2578-BA29-431E-862A-1C2446BD456B}|src\\ScienceHub.Core\\ScienceHub.Core.csproj|c:\\users\\tahir\\desktop\\science.hub\\src\\sciencehub.core\\sciencehub.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{86DD2578-BA29-431E-862A-1C2446BD456B}|src\\ScienceHub.Core\\ScienceHub.Core.csproj|solutionrelative:src\\sciencehub.core\\sciencehub.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DD2578-BA29-431E-862A-1C2446BD456B}|src\\ScienceHub.Core\\ScienceHub.Core.csproj|c:\\users\\tahir\\desktop\\science.hub\\src\\sciencehub.core\\irepositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DD2578-BA29-431E-862A-1C2446BD456B}|src\\ScienceHub.Core\\ScienceHub.Core.csproj|solutionrelative:src\\sciencehub.core\\irepositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DD2578-BA29-431E-862A-1C2446BD456B}|src\\ScienceHub.Core\\ScienceHub.Core.csproj|c:\\users\\tahir\\desktop\\science.hub\\src\\sciencehub.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DD2578-BA29-431E-862A-1C2446BD456B}|src\\ScienceHub.Core\\ScienceHub.Core.csproj|solutionrelative:src\\sciencehub.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\Science.Hub\\src\\ScienceHub.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\ScienceHub.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Tahir\\Desktop\\Science.Hub\\src\\ScienceHub.API\\Program.cs",
+              "RelativeToolTip": "src\\ScienceHub.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:42:51.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\Science.Hub\\src\\ScienceHub.Data\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "src\\ScienceHub.Data\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Tahir\\Desktop\\Science.Hub\\src\\ScienceHub.Data\\ServiceRegistration.cs",
+              "RelativeToolTip": "src\\ScienceHub.Data\\ServiceRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:38:44.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticlesController.cs",
+              "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\Science.Hub\\src\\ScienceHub.API\\Controllers\\ArticlesController.cs",
+              "RelativeDocumentMoniker": "src\\ScienceHub.API\\Controllers\\ArticlesController.cs",
+              "ToolTip": "C:\\Users\\Tahir\\Desktop\\Science.Hub\\src\\ScienceHub.API\\Controllers\\ArticlesController.cs",
+              "RelativeToolTip": "src\\ScienceHub.API\\Controllers\\ArticlesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:34:50.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticleService.cs",
+              "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\Science.Hub\\src\\ScienceHub.Data\\Concretes\\ArticleService.cs",
+              "RelativeDocumentMoniker": "src\\ScienceHub.Data\\Concretes\\ArticleService.cs",
+              "ToolTip": "C:\\Users\\Tahir\\Desktop\\Science.Hub\\src\\ScienceHub.Data\\Concretes\\ArticleService.cs",
+              "RelativeToolTip": "src\\ScienceHub.Data\\Concretes\\ArticleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:18:42.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScienceHub.Data",
+              "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\Science.Hub\\src\\ScienceHub.Data\\ScienceHub.Data.csproj",
+              "RelativeDocumentMoniker": "src\\ScienceHub.Data\\ScienceHub.Data.csproj",
+              "ToolTip": "C:\\Users\\Tahir\\Desktop\\Science.Hub\\src\\ScienceHub.Data\\ScienceHub.Data.csproj",
+              "RelativeToolTip": "src\\ScienceHub.Data\\ScienceHub.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-02T11:17:51.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IArticleService.cs",
+              "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\Science.Hub\\src\\ScienceHub.Core\\Abstarctions\\IArticleService.cs",
+              "RelativeDocumentMoniker": "src\\ScienceHub.Core\\Abstarctions\\IArticleService.cs",
+              "ToolTip": "C:\\Users\\Tahir\\Desktop\\Science.Hub\\src\\ScienceHub.Core\\Abstarctions\\IArticleService.cs",
+              "RelativeToolTip": "src\\ScienceHub.Core\\Abstarctions\\IArticleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:17:03.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScienceHub.Core",
+              "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\Science.Hub\\src\\ScienceHub.Core\\ScienceHub.Core.csproj",
+              "RelativeDocumentMoniker": "src\\ScienceHub.Core\\ScienceHub.Core.csproj",
+              "ToolTip": "C:\\Users\\Tahir\\Desktop\\Science.Hub\\src\\ScienceHub.Core\\ScienceHub.Core.csproj",
+              "RelativeToolTip": "src\\ScienceHub.Core\\ScienceHub.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-02T11:16:21.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\Science.Hub\\src\\ScienceHub.Core\\IRepositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "src\\ScienceHub.Core\\IRepositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Tahir\\Desktop\\Science.Hub\\src\\ScienceHub.Core\\IRepositories\\IRepository.cs",
+              "RelativeToolTip": "src\\ScienceHub.Core\\IRepositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:00:02.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\Science.Hub\\src\\ScienceHub.Core\\Entities\\Article.cs",
+              "RelativeDocumentMoniker": "src\\ScienceHub.Core\\Entities\\Article.cs",
+              "ToolTip": "C:\\Users\\Tahir\\Desktop\\Science.Hub\\src\\ScienceHub.Core\\Entities\\Article.cs",
+              "RelativeToolTip": "src\\ScienceHub.Core\\Entities\\Article.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T10:50:58.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Tahir\\Desktop\\Science.Hub\\src\\ScienceHub.Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "src\\ScienceHub.Core\\Entities\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Tahir\\Desktop\\Science.Hub\\src\\ScienceHub.Core\\Entities\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "src\\ScienceHub.Core\\Entities\\Common\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T10:48:20.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

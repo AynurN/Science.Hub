@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScienceHub.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffabb8b6a270625f9cbaec2122c89f23b59b040c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScienceHub.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScienceHub.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Science.hub\\ScienceHub\\src\\ScienceHub.Data\\ScienceHub.Data.csproj": {}
+    "C:\\Users\\Tahir\\Desktop\\Science.Hub\\src\\ScienceHub.Data\\ScienceHub.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Science.hub\\ScienceHub\\src\\ScienceHub.Core\\ScienceHub.Core.csproj": {
+    "C:\\Users\\Tahir\\Desktop\\Science.Hub\\src\\ScienceHub.Core\\ScienceHub.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Science.hub\\ScienceHub\\src\\ScienceHub.Core\\ScienceHub.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Tahir\\Desktop\\Science.Hub\\src\\ScienceHub.Core\\ScienceHub.Core.csproj",
         "projectName": "ScienceHub.Core",
-        "projectPath": "C:\\Users\\user\\Desktop\\Science.hub\\ScienceHub\\src\\ScienceHub.Core\\ScienceHub.Core.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Science.hub\\ScienceHub\\src\\ScienceHub.Core\\obj\\",
+        "projectPath": "C:\\Users\\Tahir\\Desktop\\Science.Hub\\src\\ScienceHub.Core\\ScienceHub.Core.csproj",
+        "packagesPath": "C:\\Users\\Tahir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tahir\\Desktop\\Science.Hub\\src\\ScienceHub.Core\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Tahir\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,25 +60,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\Science.hub\\ScienceHub\\src\\ScienceHub.Data\\ScienceHub.Data.csproj": {
+    "C:\\Users\\Tahir\\Desktop\\Science.Hub\\src\\ScienceHub.Data\\ScienceHub.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Science.hub\\ScienceHub\\src\\ScienceHub.Data\\ScienceHub.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Tahir\\Desktop\\Science.Hub\\src\\ScienceHub.Data\\ScienceHub.Data.csproj",
         "projectName": "ScienceHub.Data",
-        "projectPath": "C:\\Users\\user\\Desktop\\Science.hub\\ScienceHub\\src\\ScienceHub.Data\\ScienceHub.Data.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Science.hub\\ScienceHub\\src\\ScienceHub.Data\\obj\\",
+        "projectPath": "C:\\Users\\Tahir\\Desktop\\Science.Hub\\src\\ScienceHub.Data\\ScienceHub.Data.csproj",
+        "packagesPath": "C:\\Users\\Tahir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tahir\\Desktop\\Science.Hub\\src\\ScienceHub.Data\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Tahir\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -91,15 +82,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\Science.hub\\ScienceHub\\src\\ScienceHub.Core\\ScienceHub.Core.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Science.hub\\ScienceHub\\src\\ScienceHub.Core\\ScienceHub.Core.csproj"
+              "C:\\Users\\Tahir\\Desktop\\Science.Hub\\src\\ScienceHub.Core\\ScienceHub.Core.csproj": {
+                "projectPath": "C:\\Users\\Tahir\\Desktop\\Science.Hub\\src\\ScienceHub.Core\\ScienceHub.Core.csproj"
               }
             }
           }
@@ -118,6 +108,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -134,7 +130,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
